@@ -16,7 +16,7 @@ def test_get_all_records(db_connection): # See conftest.py to learn what `db_con
         Artist(1, "Pixies", "Rock"),
         Artist(2, "ABBA", "Pop"),
         Artist(3, "Taylor Swift", "Pop"),
-        Artist(4, "Nina Simone", "Jazz"),
+        Artist(4, "Nina Simone", "Jazz")
     ]
 
 """
